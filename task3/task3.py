@@ -1,6 +1,6 @@
-import csv
-import sys
 from io import StringIO
+import csv
+
 
 
 def task(csvString):
