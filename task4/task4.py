@@ -3,7 +3,7 @@ import csv
 import math
 
 
-def task4(csvString):
+def task(csvString):
     gr = StringIO(csvString)
     reader = csv.reader(gr, delimiter=',')
     gr = []
